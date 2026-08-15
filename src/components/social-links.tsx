@@ -37,7 +37,7 @@ const socialIconClass = `transition-colors duration-200 h-10 w-10 border-2 borde
 const socialLinks: SocialLink[] = [
     {
         name: 'GitHub',
-        url: 'https://github.com/qwertuhh', // Replace with your actual GitHub URL
+        url: 'https://github.com/arihantdotcom', // Replace with your actual GitHub URL
         icon: (
             <img
                 src={GithubIcon}
@@ -53,7 +53,7 @@ const socialLinks: SocialLink[] = [
     },
     {
         name: 'Discord',
-        url: 'https://discordapp.com/users/qwertuhh.dev', // Replace with your actual Discord ID or server invite
+        url: 'https://discordapp.com/users/arihantdot.com', // Replace with your actual Discord ID or server invite
         icon: (
             <img
                 src={DiscordIcon}
@@ -75,7 +75,7 @@ const socialLinks: SocialLink[] = [
     },
     {
         name: 'LinkedIn',
-        url: 'https://linkedin.com/in/arihantjain-qwertuhh', // Replace with your actual LinkedIn profile
+        url: 'https://www.linkedin.com/in/arihantdotcom/', // Replace with your actual LinkedIn profile
         icon: (
             <img
                 src={LinkedinIcon}
