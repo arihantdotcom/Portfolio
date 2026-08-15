@@ -11,11 +11,11 @@ const technicalSkills = {
 };
 
 const socialLinks = [
-    { name: 'GitHub', url: 'https://github.com/qwertuhh' },
+    { name: 'GitHub', url: 'https://github.com/arihantdotcom' },
     { name: 'X (Twitter)', url: 'https://x.com/arihantdotcom' },
-    { name: 'Discord', url: 'https://discordapp.com/users/qwertuhh.dev' },
-    { name: 'Medium', url: 'https://arihantjaindotcom.medium.com' },
-    { name: 'LinkedIn', url: 'https://linkedin.com/in/arihantjain-qwertuhh' },
+    { name: 'Discord', url: 'https://discordapp.com/users/arihantdot.com' },
+    { name: 'Medium', url: 'https://arihantdotcom.medium.com' },
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/arihantdotcom/' },
     { name: 'NPM', url: 'https://npmjs.com/~qwertuhh' },
     { name: 'Email', url: 'mailto:arihantjain132407@gmail.com' },
 ];
