@@ -40,7 +40,15 @@ function HeroComponent() {
                     <Tooltip label="Qwertuhh" className="text-xl">
                         <img
                             src="./profile-image/qwertuhh.svg"
-                            alt="qwertuhh"
+                            alt="Qwertuhh"
+                            className={clsx(profileIcons)}
+                            onMouseEnter={useSFX('hover', 'Qwertuhh')}
+                        />
+                    </Tooltip>
+                    <Tooltip label="Arihant Jain" className="text-xl">
+                        <img
+                            src="./profile-image/arihant_jain_dp.webp"
+                            alt="Arihant Jain"
                             className={clsx(profileIcons)}
                             onMouseEnter={useSFX('hover', 'Qwertuhh')}
                         />

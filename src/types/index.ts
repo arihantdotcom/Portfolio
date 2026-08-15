@@ -54,6 +54,26 @@ interface AudioContextType {
     changeVolume: (value: number) => void;
 }
 
+interface DesktopIconProps {
+    icon: string;
+    label: string;
+    onClick: () => void;
+}
+
+interface WindowProps {
+    id: string;
+    title: string;
+    icon: string;
+    children: React.ReactNode;
+    onClose: (id: string) => void;
+    initialX: number;
+    initialY: number;
+    zIndex: number;
+    isActive: boolean;
+    onFocus: (id: string) => void;
+    isOpen?: boolean;
+}
+
 // Legacy types for backward compatibility
 export type {
     ProjectThumbnailType,
@@ -61,4 +81,6 @@ export type {
     SocialLink,
     Skill,
     AudioContextType,
+    DesktopIconProps,
+    WindowProps,
 };
