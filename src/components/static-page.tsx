@@ -11,11 +11,11 @@ const technicalSkills = {
 };
 
 const socialLinks = [
-    { name: 'GitHub', url: 'https://github.com/arihantdotcom' },
-    { name: 'X (Twitter)', url: 'https://x.com/arihantdotcom' },
-    { name: 'Discord', url: 'https://discordapp.com/users/arihantdot.com' },
-    { name: 'Medium', url: 'https://arihantdotcom.medium.com' },
-    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/arihantdotcom/' },
+    { name: 'GitHub', url: 'https://github.com/arihantdotai' },
+    { name: 'X (Twitter)', url: 'https://x.com/arihantdotai' },
+    { name: 'Discord', url: 'https://discordapp.com/users/arihantdotai' },
+    { name: 'Medium', url: 'https://arihantdotai.medium.com' },
+    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/arihantdotai/' },
     { name: 'NPM', url: 'https://npmjs.com/~qwertuhh' },
     { name: 'Email', url: 'mailto:arihantjain132407@gmail.com' },
 ];

@@ -37,7 +37,7 @@ const socialIconClass = `transition-colors duration-200 h-10 w-10 border-2 borde
 const socialLinks: SocialLink[] = [
     {
         name: 'GitHub',
-        url: 'https://github.com/arihantdotcom', // Replace with your actual GitHub URL
+        url: 'https://github.com/arihantdotai', // Replace with your actual GitHub URL
         icon: (
             <img
                 src={GithubIcon}
@@ -48,12 +48,12 @@ const socialLinks: SocialLink[] = [
     },
     {
         name: 'X',
-        url: 'https://x.com/arihantdotcom', // Replace with your actual X handle
+        url: 'https://x.com/arihantdotai', // Replace with your actual X handle
         icon: <img src={XIcon} alt="X Icon" className={socialIconClass} />,
     },
     {
         name: 'Discord',
-        url: 'https://discordapp.com/users/arihantdot.com', // Replace with your actual Discord ID or server invite
+        url: 'https://discordapp.com/users/arihantdotai', // Replace with your actual Discord ID or server invite
         icon: (
             <img
                 src={DiscordIcon}
@@ -64,7 +64,7 @@ const socialLinks: SocialLink[] = [
     },
     {
         name: 'Medium',
-        url: 'https://arihantdotcom.medium.com', // Replace with your actual Medium URL
+        url: 'https://arihantdotai.medium.com', // Replace with your actual Medium URL
         icon: (
             <img
                 src={MediumIcon}
@@ -75,7 +75,7 @@ const socialLinks: SocialLink[] = [
     },
     {
         name: 'LinkedIn',
-        url: 'https://www.linkedin.com/in/arihantdotcom/', // Replace with your actual LinkedIn profile
+        url: 'https://www.linkedin.com/in/arihantdotai/', // Replace with your actual LinkedIn profile
         icon: (
             <img
                 src={LinkedinIcon}
